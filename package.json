@@ -22,8 +22,5 @@
     },
     "engines": {
         "node": ">=0.8.5"
-    },
-    "dependencies": {
-        "coffee-script": "1.4.0"
     }
 }
