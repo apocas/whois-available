@@ -2,12 +2,6 @@
 
 whois-available returns whois information and checks whether domains are available
 
-### install
-
-```
-npm install whois-available
-```
-
 ### use
 
 ```coffeescript
